@@ -1,0 +1,58 @@
+header{
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+h1{
+    color:black;
+}
+h1,ul{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: aliceblue;
+    font-size: 20px;
+}
+ul a{
+    text-decoration: none;
+}
+a li:hover{
+    font-size: 23px ;
+    color:yellow;
+}
+img{
+    border-radius: 10%;
+}
+#home{
+    text-align: center;
+}
+#home pre{
+    font-family:unset;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+}
+#about h1{
+    color: brown;
+}
+#about {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#about pre{
+    font-family: cursive ;
+}
+ #portfolio pre{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+#Portfolio{
+    background-color: lightgrey;
+}
+#Contact{
+    background-color: lightgrey;
+}
+body{
+    background-color: plum;
+}
